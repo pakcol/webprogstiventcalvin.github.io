@@ -1,0 +1,18 @@
+p {
+		color: red;
+		font-family: Arial;
+}
+h1 {
+		font-family: sans-serif;
+		color: white;
+		background-color: blueviolet;
+}
+.blueClass{
+		background-color: blue;
+		color: white;
+}
+#blueId{
+		color: blueviolet;
+		font-family: Arial;
+		font-style: italic;
+}
